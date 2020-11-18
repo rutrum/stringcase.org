@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>String Case</title>
+    <link rel="stylesheet" href="{{ get_url(path="index.css") }}" />
+</head>
+<body>
+    <header>
+        <nav>
+            <li>List</li>
+            <li>Formal Specifications</li>
+        </nav>
+        <h1>String Case</h1>
+    </header>
+    <section class="content">
+        {% block content %}
+            {{ section.content | safe }}
+        {% endblock content %}
+    </section>
+    <footer>
+        <a href="https://github.com/rutrum/stringcase.org">Github</a>
+    </footer>
+</body>
+</html>
