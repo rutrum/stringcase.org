@@ -2,33 +2,21 @@
 title = "String Case"
 +++
 
-Multiword identifiers require a case to distinguish meaning between words while still remaining a single token.  We define the variety of cases, when they are used, and set a standard naming convention.
+A multiword identifier is a string composed of multiple words.  It is often formatted in such a way to follow a _case_.  This case is defined to be the pair of
+* a delimeter, or a string to join words together
+* a pattern, or how each letter in a word is cased (uppercase or lowercase)
 
-A simple classification of possible cases is the casing of each word and the character used to join them.
+Some familiar cases are listed below, along with their associated pattern and delimeter.
 
-| | underscore `_` | hyphen `-` | empty delimeter |
+| | "_" | "-" | "" |
 | --- | --- | --- | --- |
-| lowercase | [snake_case](/case/snake) | kebab-case | flatcase |
-| UPPERCASE | UPPER_SNAKE_CASE | COBOL-CASE | UPPERFLATCASE |
-| Capitalized | Pascal_Snake_Case | Train-Case | PascalCase |
+| lowercase pattern | snake_case | kebab-case | flatcase |
+| UPPERCASE PATTERN | SCREAMING_SNAKE_CASE | COBOL-CASE | UPPERFLATCASE |
+| Capital Pattern | | Train-Case | PascalCase |
+| camel Pattern | | | camelCase |
 
-However, this fails to identify cases where an identifier contains words of multiple casings, like camelCase, which contains a lowercase and a capitalized word.  We describe two additional patterns: camel, where the first word is lowercase and the rest are capitalized, and sentence, where the first word is capitalized and the rest are lowercase.
+# Why does this site exist?
 
-| | underscore `_` | hyphen `-` | empty delimeter |
-| --- | --- | --- | --- |
-| camel Pattern | unnamed_Case | unnamed-Case | camelCase |
-| Sentence pattern | Bjarne_case | Bjarne-bab-case | Unnamedcase |
+There is no definitive definition for a string case, nor is there a concensus on what each case should be called.  This site is created to add some formality to the terminology and have a commonality across applications of string casing.
 
-See that these names are either unclassified or perhaps unheard of.  Further research is required to determine a practical name.  Please reach out if you have evidence of these cases being used in practice, and what it might be called.
-
-One might consider other stylistic ways to print a string, although their use for an identifier is impractical or absurd.  This includes the space-delimited cases, some of which are not listed here.
-
-| | |
-| --- | --- |
-| title | Title Case |
-| alternating | aLtErNaTiNg CaSe |
-| random | ranDom CAsE |
-| toggle | tOGGLE cASE |
-| surreal | s u r r e a l c a s e |
-
-This website is a project to formally define these cases and set naming conventions while siting a history of their usage in computing.
+Not only is there multiple names for each case, but some cases aren't classified.  The blanks in the chart above shows some string cases that are unnamed.  Perhaps this site will prompt discussion to perhaps agree upon names, should it be necessary.

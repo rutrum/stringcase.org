@@ -11,8 +11,12 @@ code {
     border-radius: .2em;
 }
 
-p {
+p, li {
     line-height: 1.5em;
+}
+
+li {
+    padding: .2em;
 }
 
 header {

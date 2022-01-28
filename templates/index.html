@@ -13,7 +13,10 @@
 <body>
     <header>
         <nav>
-            <a href="/definition"><li>Formal Definition</li></a>
+            {% set section = get_section(path="_index.md") %}
+            {% for page in section.pages %}
+                <li><a href={{page.permalink | safe }}>{{page.title}}</a></li>
+            {% endfor %}
         </nav>
         <a href="/"><h1>String Case</h1></a>
     </header>
