@@ -1,5 +1,5 @@
 +++
-title = "Some Definitions"
+title = "Definitions"
 +++
 
 # Characters
