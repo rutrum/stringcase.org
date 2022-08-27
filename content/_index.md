@@ -19,4 +19,4 @@ Some familiar cases are listed below, along with their associated pattern and de
 
 There is no definitive definition for a string case, nor is there a concensus on what each case should be called.  This site is created to add some formality to the terminology and have a commonality across applications of string casing.
 
-Not only is there multiple names for each case, but some cases aren't classified.  The blanks in the chart above shows some string cases that are unnamed.  Perhaps this site will prompt discussion to perhaps agree upon names, should it be necessary.
+Not only is there multiple names for each case, but some cases aren't classified.  The blanks in the chart above shows some string cases that are unnamed.  Perhaps this site will prompt discussion to determine names, should it be necessary.
