@@ -1,7 +1,6 @@
 +++
 title = "Boundary"
 weight = 12
-draft = true
 +++
 
 We say a _boundary_ is some condition that splits an identifier into a list of words.

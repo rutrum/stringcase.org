@@ -12,3 +12,15 @@ This site is work in progress.
     {{<card link="/about" title="About this Project">}}
     {{<card link="https://github.com/rutrum/stringcase.org" title="Git Repository">}}
 {{</cards>}}
+
+## Todo/Notes
+
+Consider renaming definition to intuition (or similar), and new page for the specification.
+
+New page for implementations.
+
+Add my rust library and CLI here.
+
+Custom icon and favicon.
+
+Most important: determine a solution for numbers.
