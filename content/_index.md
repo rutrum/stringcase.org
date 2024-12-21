@@ -24,3 +24,5 @@ Add my rust library and CLI here.
 Custom icon and favicon.
 
 Most important: determine a solution for numbers.
+
+Figure out a way to add language tags to code blocks.

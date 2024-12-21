@@ -8,19 +8,37 @@ Characters can be classified in a variety of ways.  One could partition the asci
 Moving forward, we will define a _character_ as one of the [printable ascii characters](https://en.wikipedia.org/wiki/ASCII#Printable_characters).  We can partition these characters in the following classes:
 
 * The space character (0x20)
-* Digits 0-9 (0x30-0x39)
-* Upper case letters (0x41-0x5A)
-* Lower case letters (0x61-0x7A)
+* ASCII digits 0-9 (0x30-0x39)
+* Uppercase Latin alphabet (0x41-0x5A)
+* Lowercase Latin alphabet (0x61-0x7A)
 * Symbols, everything else
 
-## Letter(?) Case
+In unicode terminology, we are going to consider only characters from the Basic Latin block.
 
-Should this be letter case or character case?  A "character" is important in terms of programming, but a "letter" is important in terms of linguistic usage.  What's more important?  Letter sounds great until I need to start defining edge cases for other no-case characters... Character may not even be accurate either, since in unicode we would call it a codepoint.
+todo: make this a footnote/reference?
+Reference: C0 character code table: https://www.unicode.org/charts/PDF/U0000.pdf
 
-The upper and lower case letters both represent the same arabic letter.  We say these characters have a _letter case_ of either upper or lower.  The remaining characters of space, symbols, and digits do not have a letter case.
+## Letter Case
 
-| name | examples |
+The unicode standard 16.0 describes a case as follows.
+
+> Case is a normative property of characters in certain alphabets whereby characters
+> are considered to be variants of a single letter.
+
+In the context of the basic latin block, we only need to consider two variants of this case property.
+
+> These variants, which may differ
+> markedly in shape and size, are called the uppercase letter (also known as capital or
+> majuscule) and the lowercase letter (also known as small or minuscule).
+
+In the context of what we will define later as a string case, we call this property _letter case_.  All characters are one of _uppercase_, _lowercase_, or neither.  Characters that are neither uppercase or lowercase we say are _caseless_.
+
+| letter case | examples |
 | --- | --- |
-| lower | `r`, `j`, `d` |
-| upper | `R`, `J`, `D` |
-| no case | `-`, `8`, `~`, space |
+| lowercase | `a`, `b`, `c`, ..., `z` |
+| uppercase | `A`, `B`, `C`, ..., `Z` |
+| caseless | `0`,...,`9`, `_`, `-`, space, etc. |
+
+**todo: should letter case be two words?**
+
+**todo: add citation to standard 16.0**

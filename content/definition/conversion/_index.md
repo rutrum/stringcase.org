@@ -1,6 +1,7 @@
 +++
 title = "Case Conversion"
 math = true
+weight = 15
 
 [sidebar]
 open = true
