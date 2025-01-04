@@ -13,14 +13,11 @@ Moving forward, we will define a _character_ as one of the [printable ascii char
 * Lowercase Latin alphabet (0x61-0x7A)
 * Symbols, everything else
 
-In unicode terminology, we are going to consider only characters from the Basic Latin block.
-
-todo: make this a footnote/reference?
-Reference: C0 character code table: https://www.unicode.org/charts/PDF/U0000.pdf
+In unicode terminology, we are going to consider only characters from the Basic Latin block. [^1]
 
 ## Letter Case
 
-The unicode standard 16.0 describes a case as follows.
+The unicode standard 16.0.0 describes a case as follows. [^2]
 
 > Case is a normative property of characters in certain alphabets whereby characters
 > are considered to be variants of a single letter.
@@ -40,5 +37,5 @@ In the context of what we will define later as a string case, we call this prope
 | caseless | `0`,...,`9`, `_`, `-`, space, etc. |
 
 **todo: should letter case be two words?**
-
-**todo: add citation to standard 16.0**
+[^1]: [Unicode C0 Controls and Basic Latin](https://www.unicode.org/charts/PDF/U0000.pdf)
+[^2]: [Unicode Standard 16.0.0: 4.2 Case](https://www.unicode.org/versions/Unicode16.0.0/UnicodeStandard-16.0.pdf#%5B%7B%22num%22%3A3932%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C36%2C594%2C0%5D)

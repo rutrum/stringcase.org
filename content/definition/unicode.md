@@ -15,7 +15,7 @@ Unicode standard defines the following properties of code points.
 
 ## Boundaries
 
-Segmentation of unicode code points into "graphs" (I dont recall what it is, grams?) is a complicated matter.
+Segmentation of unicode code points into graphemes is a complicated matter.
 
 ## Another non-unicode consideration
 
