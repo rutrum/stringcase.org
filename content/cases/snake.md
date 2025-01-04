@@ -9,13 +9,13 @@ Snake case is also known as _lowercase_with_underscores_.
 
 ## Known Literature
 
-The python standard library describes snake case as follows.
+The python standard library describes snake case as follows. [^1]
 
 > The following naming styles are commonly distinguished.
 >
 > ...
 >
-> * `lower_case_with_underscores` [^1]
+> * `lower_case_with_underscores`
 
 [^1]: [PEP-0008 Naming Styles](https://peps.python.org/pep-0008/#descriptive-naming-styles)
 
