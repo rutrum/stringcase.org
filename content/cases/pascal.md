@@ -5,4 +5,6 @@ weight = 34
 
 _Pascal case_ is the capital pattern with empty string delimiter.
 
-Pascal case is also known as _upper camel case_.
+## Synonyms
+
+- _Upper camel case_

@@ -5,7 +5,9 @@ weight = 21
 
 _Cobol case_ is the upper pattern with hyphen `-` delimiter.
 
-Cobol case is also known as _upper kebab case_.
+## Synonyms
+
+- _Upper kebab case_
 
 ## History
 

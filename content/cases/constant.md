@@ -5,7 +5,10 @@ weight = 11
 
 _Constant case_ is the upper pattern with underscore `_` delimiter.
 
-Constant case is also known as _upper snake case_ or _screaming snake case_.
+## Synonyms
+
+- _Upper snake case_
+- _Screaming snake case_
 
 ## History
 

@@ -5,7 +5,10 @@ weight = 20
 
 _Kebab case_ is the lower pattern with the hyphen `-` delimiter.
 
-Kebab case is also known as _dash case_ or _hyphen case_.
+## Synonyms
+
+- _Dash case_
+- _Hyphen case_
 
 ## History
 
