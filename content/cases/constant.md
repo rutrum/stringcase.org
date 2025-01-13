@@ -7,8 +7,7 @@ _Constant case_ is the upper pattern with underscore `_` delimiter.
 
 ## Synonyms
 
-- _Upper snake case_
-- _Screaming snake case_
+- _Upper snake case_ or _Screaming snake case_
 
 ## History
 

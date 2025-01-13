@@ -7,8 +7,7 @@ _Kebab case_ is the lower pattern with the hyphen `-` delimiter.
 
 ## Synonyms
 
-- _Dash case_
-- _Hyphen case_
+- _Dash case_ or _Hyphen case_
 
 ## History
 
