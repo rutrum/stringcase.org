@@ -5,6 +5,10 @@ weight = 30
 
 _Flat case_ is the lower pattern with empty string delimiter.
 
+## Synonyms
+
+- _Lazy case_
+
 ## Known Literature
 
 Google style guide: https://google.github.io/styleguide/javaguide.html#s5.2.1-package-names [^1]:

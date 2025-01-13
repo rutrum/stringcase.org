@@ -8,6 +8,9 @@ _Kebab case_ is the lower pattern with the hyphen `-` delimiter.
 ## Synonyms
 
 - _Dash case_ or _Hyphen case_
+- _Spinal case_
+- _Param case_
+- _Lisp case_, in reference to the Lisp programming language
 
 ## History
 

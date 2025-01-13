@@ -7,7 +7,7 @@ _Cobol case_ is the upper pattern with hyphen `-` delimiter.
 
 ## Synonyms
 
-- _Upper kebab case_
+- _Upper kebab case_ or _Screaming kebab case_
 
 ## History
 
