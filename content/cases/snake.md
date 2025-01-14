@@ -8,7 +8,7 @@ _Snake case_ is the lower pattern with underscore `_` delimiter.
 ## Synonyms
 
 - _Snail case_
-- _Lowercase with underscores_
+- _Lowercase with underscores_[^1]
 
 ## Known Literature
 
