@@ -7,11 +7,14 @@ _Kebab case_ is the lower pattern with the hyphen `-` delimiter.
 
 ## Synonyms
 
-- _Dash case_ or _Hyphen case_
-- _List case_
-- _Spinal case_
-- _Param case_
-- _Lisp case_, in reference to the Lisp programming language
+- _Dash case_[^1] or _Hyphen case_[^2]
+- _List case_[^1]
+- _Spinal case_[^1]
+- _Param case_[^2]
+- _Lisp case_[^1], in reference to the Lisp programming language
+
+[^1]: [Nishanth J., answering: What are the different kinds of cases?](https://stackoverflow.com/a/64293621)
+[^2]: [Andreas Herz, answering: What are the different kinds of cases?](https://stackoverflow.com/a/54330161)
 
 ## History
 
