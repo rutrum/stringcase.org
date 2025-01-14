@@ -10,6 +10,7 @@ _Kebab case_ is the lower pattern with the hyphen `-` delimiter.
 - _Dash case_[^1] or _Hyphen case_[^2]
 - _List case_[^1]
 - _Spinal case_[^1]
+- _Caterpillar case_[^2]
 - _Param case_[^2]
 - _Lisp case_[^1], in reference to the Lisp programming language
 
