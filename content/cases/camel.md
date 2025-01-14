@@ -21,7 +21,7 @@ _Camel case_ is the camel pattern with empty string delimiter.
 
 **todo: figure out which of these are specific to lower camel case**
 
-[^1]: [Style Guide for Python Code: Naming Styles](https://legacy.python.org/dev/peps/pep-0008/#descriptive-naming-styles)
+[^1]: [Style Guide for Python Code: Naming Styles](https://peps.python.org/pep-0008/#descriptive-naming-styles)
 [^2]: [National Geographic: Arabian Camel (Dromedary)](https://www.nationalgeographic.com/animals/mammals/facts/arabian-camel)
 [^3]: [Purdue University: C# Coding Standards and Guidelines](https://web.archive.org/web/20080411055228/http://www2.tech.purdue.edu/cit/Courses/CPT355/C_Sharp_Coding_Standards_and_Guidelines.asp)
 [^4]: [Ian Feldman: compoundNames](https://groups.google.com/group/alt.folklore.computers/browse_thread/thread/6099191f2c4e0984/21f332e5b813313e?#21f332e5b813313e)
