@@ -21,4 +21,16 @@ Kebab case is used in HTML/CSS as class and id names.
 </div>
 ```
 
+Lisp also uses kebab case for most identifiers.[^1]
+
+```lisp
+(when (engine-running-p car)
+  (drive car))
+
+(unless (seatbelts-fastened-p car)
+  (warn-passengers car))
+```
+
 It is not commonly used as identifiers for variables or functions in programming languages because the hyphen `-` is used to represent subtraction, and can't be used in identifiers.
+
+[^1]: [Lisp Style Guide](https://lisp-lang.org/style-guide/#naming)
