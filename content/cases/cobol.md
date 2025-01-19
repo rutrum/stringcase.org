@@ -11,7 +11,7 @@ Cobol case is also known as _upper kebab case_.
 
 ## History
 
-Named after it's frequent use in the Cobol programming language.  In modern programming languages this type of cases is rarely used, usually since the minus sign is used for subtraction and can't be used in identifiers.
+Named after it's frequent use in the Cobol programming language.  In modern programming languages this case is rarely used, usually since the minus sign is used for subtraction and can't be used in identifiers.
 
 ## Usage
 
