@@ -5,6 +5,10 @@ weight = 30
 
 _Flat case_ is the lower pattern with empty string delimiter.
 
+## Synonyms
+
+- _Lazy case_
+
 ## History
 
 Google style guide: [^1]:
