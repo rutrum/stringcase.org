@@ -9,11 +9,9 @@ _Flat case_ is the lower pattern with empty string delimiter.
 
 - _Lazy case_
 
-## Known Literature
+## History
 
-Google style guide: https://google.github.io/styleguide/javaguide.html#s5.2.1-package-names [^1]:
-
-**todo: this isn't really about the naming convention, just examples of how they are used.  Maybe this should be in a different section.  Can I actually find an instance of this being refered to as flatcase?**
+Google style guide: [^1]:
 
 > Package names use only lowercase letters and digits (no underscores). Consecutive words are simply concatenated together. For example, com.example.deepspace, not com.example.deepSpace or com.example.deep_space.
 
