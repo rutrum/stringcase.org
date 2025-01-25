@@ -10,6 +10,7 @@
     pkgs = nixpkgs.legacyPackages.${system};
   in {
     devShells.${system}.default = pkgs.mkShell {
+      name = "stringcase.org";
       buildInputs = with pkgs; [
         just
         hugo
