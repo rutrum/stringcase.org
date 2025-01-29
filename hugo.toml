@@ -5,7 +5,7 @@ theme = 'hextra'
 # https://imfing.github.io/hextra/docs/
 
 [markup.highlight]
-style = "catppuccin-mocha"
+style = "catppuccin-latte"
 
 [params.theme]
 default = "light"
