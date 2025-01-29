@@ -1,5 +1,6 @@
 +++
 title = "snake_case"
+slug = "../snake"
 weight = 10
 +++
 
@@ -7,7 +8,9 @@ _Snake case_ is the lower pattern with underscore `_` delimiter.
 
 Snake case is also known as _lowercase_with_underscores_.
 
-## Known Literature
+## History
+
+## Naming
 
 The python standard library describes snake case as follows. [^1]
 
@@ -23,12 +26,12 @@ The python standard library describes snake case as follows. [^1]
 
 Python and rust use snake case identifiers for function names.
 
-```python
+```python {filename="Python"}
 def add_two(a):
     return a + 2
 ```
 
-```rust
+```rust {filename="Rust"}
 fn add_two(a: int) -> int {
     a + 2
 }

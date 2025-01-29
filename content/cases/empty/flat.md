@@ -1,5 +1,6 @@
 +++
 title = "flatcase"
+slug = "../flat"
 weight = 30
 +++
 

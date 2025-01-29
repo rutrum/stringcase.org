@@ -1,11 +1,12 @@
 +++
 title = "Ada_Case"
+slug = "../ada"
 weight = 13
 +++
 
 _Ada case_ is the capital pattern with underscore delimiter.
 
-## Known Literature
+## History
 
 This php case conversion library calls this case "Ada". [^1]
 

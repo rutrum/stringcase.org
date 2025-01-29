@@ -6,13 +6,13 @@ cascade:
 
 A string case is the pair of a _pattern_ which describes how individual words are cased and of a _delimiter_, a string that joines words together.
 
-Below is a summary of common cases used in programming languages, as described by their pattern and delimiter.
+Below is a summary of cases used in programming languages and written language, as described by their pattern and delimiter.
 
-| pattern | underscore `_` | hyphen `-` | no delimiter |
-| --- | --- | --- | --- |
-| lower | [snake_case](snake) | [kebab-case](kebab) | [flatcase](flat) |
-| upper | [CONSTANT_CASE](upper_snake) | [COBOL-CASE](cobol) | [UPPERFLATCASE](upper_flat) |
-| capital | | [Train-Case](train) | [PascalCase](pascal) |
+| pattern | underscore `_` | hyphen `-` | no delimiter | space |
+| --- | --- | --- | --- | --- |
+| lower | [snake_case](snake) | [kebab-case](kebab) | [flatcase](flat) | [lower case](lower) |
+| upper | [CONSTANT_CASE](constant) | [COBOL-CASE](cobol) | [UPPERFLATCASE](upper_flat) | [UPPER CASE](upper) |
+| capital | [Ada_Case](ada) | [Train-Case](train) | [PascalCase](pascal) | [Title Case](title) |
 | camel | | | [camelCase](camel) |
 
 ## Other Cases

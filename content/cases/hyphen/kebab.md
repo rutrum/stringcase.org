@@ -1,5 +1,6 @@
 +++
 title = "kebab-case"
+slug = "../kebab"
 weight = 20
 +++
 
@@ -8,6 +9,8 @@ _Kebab case_ is the lower pattern with the hyphen `-` delimiter.
 Kebab case is also known as _dash case_ or _hyphen case_.
 
 ## History
+
+## Naming
 
 While the usage of kebab case has been around for a long time, the earliest known record of its name dates to July 23, 2013 by user Ben Lee in [this stackoverflow post](https://stackoverflow.com/questions/11273282/whats-the-name-for-hyphen-separated-case).
 

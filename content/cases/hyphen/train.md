@@ -1,19 +1,14 @@
 +++
 title = "Train-Case"
+slug = "../train"
 weight = 25
 +++
 
 _Train case_ is the capital pattern with hyphen delimiter.
 
-## History
-
-The HTTP specification does not require that HTTP Headers be in a particular case.[^1]
-
-[^1]: [RFC 2615](https://www.rfc-editor.org/rfc/rfc2616#section-4.2)
-
 ## Usage
 
-This is the case used for HTTP Headers.
+This is the case commonly used for HTTP Headers, although the HTTP specification does not require headers be in a particular case.[^1]
 
 ```
 GET /cases/train/ HTTP/1.1
@@ -23,3 +18,5 @@ Accept: text/html,application/xhtml+xml,...
 Accept-Language: en-US,en;q=0.5
 Accept-Encoding: gzip, deflate, br, zstd
 ```
+
+[^1]: [RFC 2615](https://www.rfc-editor.org/rfc/rfc2616#section-4.2)

@@ -1,5 +1,6 @@
 +++
 title = "UPPERFLATCASE"
+slug = "../upper_flat"
 weight = 31
 +++
 
