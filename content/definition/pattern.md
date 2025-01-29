@@ -22,3 +22,4 @@ A series isn't the most precise definition.  A series assumes we have a list of 
 For example, we would define a pattern where the final word is uppercase, but all previous words are lowercase.
 
 **todo: consider redefining pattern and wordcase to be functions of the length of the word list/word**
+

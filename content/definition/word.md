@@ -17,3 +17,5 @@ A word is a series of characters.  A _word case_ is a series of character cases 
 Colloquially, we would say a word `pig` follows lower case, or that `Monkey` is capital case.  For capital word case in particular, we say the word is _capitalized_.
 
 This definition could be extended to include a word case that specifies _end_ behavior, like that the last character should be upper case, for instance.  Maybe, more generally, a word case a function that applies a letter case to each character.
+
+**todo: unicode standard calls "capital" or "capitalized" pattern titlecase**
