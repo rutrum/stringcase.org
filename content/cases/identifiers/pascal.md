@@ -1,7 +1,7 @@
 +++
 title = "PascalCase"
 slug = "../pascal"
-weight = 34
+weight = 33
 +++
 
 _Pascal case_ is the capital pattern with empty string delimiter.

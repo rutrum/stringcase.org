@@ -1,5 +1,6 @@
 +++
 title = "Citations"
+weight = 10 
 +++
 
 What citations should be used when refering to naming conventions?  Unforunately, wikipedia and other listical articles will source stack overflow threads of the source of the name of a case.  [This stackoverflow thread in particular](https://stackoverflow.com/questions/17326185/what-are-the-different-kinds-of-cases) has a list of cases each with names.  But do these names hold any weight?

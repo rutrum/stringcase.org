@@ -4,6 +4,7 @@ weight = 2
 +++
 
 A _word_ is a string of characters that are uppercase or lowercase.  In the context of a variable name, these are the words you use to describe it's function.  You would later combine these words into a single idenfier to use as a variable, function, file, etc.  
+
 ## Word Case
 
 A word is a series of characters.  A _word case_ is a series of character cases that describe how the word should be formatted.  Below are some names to specific word casings, but is not exhaustive.
