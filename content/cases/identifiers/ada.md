@@ -8,21 +8,17 @@ _Ada case_ is the capital pattern with underscore delimiter.
 
 ## History
 
-This php case conversion library calls this case "Ada". [^1]
-
-[^1]: [github:jawira/case-converter](https://github.com/jawira/case-converter)
-
-Ada's style guide acturally describes this case as follows: [^2]
+Ada's style guide acturally describes this case as follows: [^1]
 
 > Use mixed case for all other identifiers, a capital letter beginning every word separated by underscores.
 
-[^2]: [Ada Style Guide 3.1 Spelling: Capitalization](https://ada-lang.io/docs/style-guide/s3/01#capitalization)
+[^1]: [Ada Style Guide 3.1 Spelling: Capitalization](https://ada-lang.io/docs/style-guide/s3/01#capitalization)
 
 ## Example
 
-Ada uses this case for most variables. 
+Ada uses this case for most variables.
 
-```ada
+```ada {filename="Ada"}
 type Second_Of_Day      is range 0 .. 86_400;
 type Noon_Relative_Time is (Before_Noon, After_Noon, High_Noon);
 

@@ -19,4 +19,10 @@ Accept-Language: en-US,en;q=0.5
 Accept-Encoding: gzip, deflate, br, zstd
 ```
 
+PowerShell also uses this extensively for all of its _cmdlets_, or native commands available within PowerShell.
+
+```ps1 {filename="PowerShell"}
+Get-Process | Get-Member | Out-Host -Paging
+```
+
 [^1]: [RFC 2615](https://www.rfc-editor.org/rfc/rfc2616#section-4.2)

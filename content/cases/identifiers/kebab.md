@@ -18,7 +18,7 @@ While the usage of kebab case has been around for a long time, the earliest know
 
 Kebab case is used in HTML/CSS as class and id names.
 
-```html
+```html {filename="HTML"}
 <div class="large-box">
     <span id="page-title">Welcome!</span>
 </div>
@@ -26,7 +26,7 @@ Kebab case is used in HTML/CSS as class and id names.
 
 Lisp also uses kebab case for most identifiers.[^1]
 
-```lisp
+```lisp {filename="Lisp"}
 (when (engine-running-p car)
   (drive car))
 
