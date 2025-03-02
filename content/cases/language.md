@@ -4,6 +4,39 @@ title = "Case by Language Construct"
 
 Keep these headers alphabetized.  Maybe each section could become its own page.
 
+## C
+
+Linux kernel: https://www.kernel.org/doc/html/v4.10/process/coding-style.html
+
+feature | case
+
+## C#
+
+Microsoft: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names
+
+feature | case
+--- | ---
+types | Pascal
+namespaces | Pascal
+public members | Pascal
+classes | Pascal
+interfaces | Pascal
+structs | Pascal
+delegate | Pascal
+variables | camel
+private members | camel
+
+## Go
+
+Effective Go: https://go.dev/doc/effective_go
+
+feature | case
+--- | ---
+packages | flat
+public items | Pascal
+private items | camel
+files | snake
+
 ## Pascal
 
 From the GNU Pascal Coding Standards: https://www.gnu-pascal.de/h-gpcs-en.html
@@ -16,6 +49,33 @@ reserved words | flat
 identifiers | Pascal
 local variables | Pascal or flat
 compiler directives | kebab
+
+## Perl
+
+Official documentation: https://perldoc.perl.org/perlstyle
+
+feature | case
+--- | ---
+constants | constant
+globals | Ada
+locals | snake
+functions | snake
+methods | snake
+modules | Pascal(?)
+
+## PHP
+
+This doesn't look comprehensive: https://www.php.net/manual/en/userlandnaming.rules.php
+
+There's this too: https://www.php-fig.org/psr/psr-1/ and https://infinum.com/handbook/wordpress/coding-standards/php-coding-standards/naming
+
+feature | case
+--- | ---
+functions | snake
+classes | camel or Pascal
+constants | constant
+methods | camel
+files | kebab or Pascal
 
 ## Python
 

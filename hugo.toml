@@ -22,6 +22,11 @@ pageRef = "/cases"
 weight = 2
 
 [[menu.main]]
+name = "Tooling"
+pageRef = "/tools"
+weight = 3
+
+[[menu.main]]
 name = "About"
 pageRef = "/about"
-weight = 3
+weight = 4

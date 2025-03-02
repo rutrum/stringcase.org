@@ -36,4 +36,6 @@ Lisp also uses kebab case for most identifiers.[^1]
 
 It is not commonly used as identifiers for variables or functions in programming languages because the hyphen `-` is used to represent subtraction, and can't be used in identifiers.
 
+It is also common practice to use kebab case for the path in the url.
+
 [^1]: [Lisp Style Guide](https://lisp-lang.org/style-guide/#naming)
