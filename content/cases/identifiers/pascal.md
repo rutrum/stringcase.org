@@ -12,7 +12,7 @@ Pascal case is also known as _upper camel case_.
 
 Pascal is a case-insensitive language, so the same identifier can be referenced using a different mixture of upper and lowercase letters each time.
 
-This document[^1] with footer dating it at 1998 suggests Pascal case for most identifiers, additionally describing prefixes to prepend to certain types. (**todo: figure out what what convention is called**).
+This document[^1] with footer dating it at 1998 suggests Pascal case for most identifiers  It also describes _Hungarian notiation_, which are prefixes of identifiers to specify the variable type.
 
 This other document[^2] calls Pascal case _infix caps_.  It suggests using infix caps for all identifiers.
 

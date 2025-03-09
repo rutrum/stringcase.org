@@ -8,7 +8,7 @@ _Camel case_ is the camel pattern with empty string delimiter.
 
 Camel case is also known as _mixed case_ or _lower camel case_ (to distinguish it from [pascal case](../pascal)).
 
-## History
+## Usage
 
 Google's C++ style guide refers to camel case as mixed case, and further describes how you would define the words that compose an identifier, and then even mentions abbreviations. [^1]
 

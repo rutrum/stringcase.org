@@ -13,6 +13,8 @@ I want to bring special attention to github user jawira, [whose site for their p
 Library | Language
 --- | ---
 [strcase](https://pkg.go.dev/github.com/iancoleman/strcase) | Go
+[to-case](https://github.com/ianstormtaylor/to-case) | Javascript
 [case-converter](https://jawira.github.io/case-converter/index.html) | PHP
 [case-converter](https://pypi.org/project/case-converter/) | Python
+[convert_case](https://crates.io/crates/convert_case) | Rust
 [heck](https://crates.io/crates/heck) | Rust
